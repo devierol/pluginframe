@@ -1,0 +1,1 @@
+<?phpinclude_once 'pluginname.php';class pluginname_frontend extends pluginname  {	public function __construct(){		//action goes here	}	}?>

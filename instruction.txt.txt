@@ -1,0 +1,2 @@
+- rename the folder according the the name of your plugin
+
